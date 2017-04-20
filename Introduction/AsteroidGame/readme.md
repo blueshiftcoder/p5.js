@@ -2,4 +2,4 @@
 
 # Asteroid Game
 
-Download files and folders as listed and run index.html to play Asteroid Game.
+Download files and folders (<b>not readme.md</b>) as listed and run index.html to play Asteroid Game.
