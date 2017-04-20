@@ -1,4 +1,4 @@
-<a href="http://blueshiftcoding.com" target="_blank"><img src="http://blueshiftcoding.com/wp-content/themes/blueshift/images/logo-animation175p.gif"></a>
+<a href="http://blueshiftcoding.com" target="_blank"><img src="http://blueshiftcoding.com/wp-content/themes/blueshift/images/logo-animation175p.gif"><img src="http://blueshiftcoding.com/wp-content/uploads/2017/04/BLUESHIFT-LOGO_GRAD_TRANS.png"></a>
 
 # Asteroid Game
 
